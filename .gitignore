@@ -1,3 +1,5 @@
 
 hsp/obj
 hsp/hsptmp
+hsp/packfile
+hsp/*.ax
